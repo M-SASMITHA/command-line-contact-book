@@ -1,0 +1,7 @@
+name=input("Enter your full Name:")
+num=input("Enter your contact number:")
+email=input("Enter your email address:")
+print("Contact Information")
+print("contact Name:",name)
+print("contact Number:",num)
+print("Email Address:",email)

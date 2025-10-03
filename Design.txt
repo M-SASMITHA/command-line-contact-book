@@ -1,0 +1,12 @@
+1)start 
+2)User have access to two option:
+            >Add contact
+            >View contact
+3)If the user selects Add contacts then
+       -prompt for Contact name
+       -prompt for Contact number
+       -prompt for Email address
+    All details are saved in the memory
+4)If the user selects View contact then
+    Display the contact information in readable format
+5)stop                      
